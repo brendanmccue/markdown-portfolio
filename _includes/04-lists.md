@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+- [ ] organ that pumps blood :heart:
+- [ ] face i make when struggling w github :smile:
